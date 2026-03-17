@@ -1,0 +1,5 @@
+make table to copy like
+no. | fullname | permit number|
+
+
+📊 Generate the actual downloadable Excel (.xlsx) file 🧹 Remove duplicate names (there are 4 duplicates in your list) 🎨 Format it like a clean attendance sheet with borders and headers.Make not capitalize in fullname, format for fullname (lastname, firstname)
